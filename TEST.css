@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    font-family:'Times New Roman';
+}
+.first{
+    font-family:'Times New Roman';
+    margin: 2px, solid;
+}
+.second{
+    font-family:'Times New Roman';
+    margin-bottom: 4px, solid;
+    margin-top: 4px, solid;
+    margin-left: 2px, solid;
+    margin-right: 2px, solid;
+}
+.third{
+    font-family:'Times New Roman';
+    margin: 2px, solid;
+}
